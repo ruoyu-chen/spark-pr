@@ -17,7 +17,7 @@ src, pr, dest<sub>1</sub>, dest<sub>2</sub>, ..., dest<sub>n</sub>
 
 经过处理后的测试数据(pr.dat文件)可以从百度云下载：
 
-链接: https://pan.baidu.com/s/1jI82WU6 密码: vaef
+链接: https://pan.baidu.com/s/1c2dE6kg 密码: 5hay
 
 ## 3.测试数据准备
 
